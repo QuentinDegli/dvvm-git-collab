@@ -3,3 +3,5 @@
  3. continuer
  4. fusée
  5. poisson
+ 6. ananas
+ 
