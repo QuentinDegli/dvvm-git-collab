@@ -6,3 +6,4 @@
  6. ananas
  7. maison
  8. c'est l'heure de partir
+ 9. au revoir
