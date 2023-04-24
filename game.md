@@ -1,3 +1,4 @@
  1. fr
  2. mot
- 3. phrase
+ 3. continuer
+ 4. fusée
